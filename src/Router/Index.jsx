@@ -1,6 +1,6 @@
-import Agence from "../pages/Agence"
-import Home from "../pages/Home"
-import Project from "../pages/Project"
+import Agence from "../pages/Agence.jsx"
+import Home from "../pages/Home.jsx"
+import Project from "../pages/Project.jsx"
 
  
 const Index = () => [
