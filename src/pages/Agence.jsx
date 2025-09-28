@@ -2,7 +2,7 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import { ScrollTrigger } from "gsap/all";
 import { useRef } from "react";
-import { imageArray } from "../utility/imageArray";
+import { imageArray } from "../utility/imageArray.js";
 
 const Agence = () => {
   console.log(imageArray);

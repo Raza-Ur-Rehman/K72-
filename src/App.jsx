@@ -1,5 +1,5 @@
 import { Route, Routes } from "react-router-dom"
-import Index from "./Router/Index";
+import Index from "./Router/Index.jsx";
 
 
 

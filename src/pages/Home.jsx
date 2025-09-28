@@ -1,8 +1,8 @@
-import HomeBottomText from "../components/Home/HomeBottomText";
-import HomeHeroText from "../components/Home/HomeHeroText";
-import Video from "../components/Home/video";
-import Navbar from "../components/Navigation/Navbar";
-import NavbarPage from "../components/Navigation/NavbarPage";
+import HomeBottomText from "../components/Home/HomeBottomText.jsx";
+import HomeHeroText from "../components/Home/HomeHeroText.jsx";
+import Video from "../components/Home/video.jsx";
+import Navbar from "../components/Navigation/Navbar.jsx";
+import NavbarPage from "../components/Navigation/NavbarPage.jsx";
 
 const Home = () => {
   return (

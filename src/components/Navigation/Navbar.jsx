@@ -1,5 +1,5 @@
 import { useContext, useRef } from "react";
-import { NavbarContext } from "../../context/NavContext";
+import { NavbarContext } from "../../context/NavContext.jsx";
 
 const Navbar = () => {
   const navHoverRef = useRef(null);
