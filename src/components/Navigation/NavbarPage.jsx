@@ -25,7 +25,6 @@ const NavbarPage = () => {
     });
     tl.from(".link", {
       opacity: 0,
-      stagger: 0.2,
       rotateX: 90,
       stagger: {
         amount: -0.2,
